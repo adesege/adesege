@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate and innovative Senior Software En
 ## 🧑‍💻 About Me
 
 - 🌍 Based in Lagos, Nigeria.
-- 🎓 B.Sc. in Mathematics and Computer Science.
 - 🔍 Focused on building scalable web and mobile applications with **React**, **Node.js**, **TypeScript**, and other modern technologies.
 - 💡 Strong believer in the power of community. I've mentored developers at Andela and other initiatives like Naijahacks, and enjoy contributing to open-source projects.
 - 🛠️ Experienced in leading software teams, conducting agile ceremonies, and delivering quality software solutions at scale.
